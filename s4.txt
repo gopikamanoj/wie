@@ -1,0 +1,7 @@
+subjects
+ss
+ac
+aic
+prob
+ls
+co
